@@ -2,7 +2,7 @@
 
 ## Speaker
 
-Rachel Orston - CEO, USERIQ
+Rachel Orston - CEO, UserIQ (@rachelorston)
 
 ## Notes
 

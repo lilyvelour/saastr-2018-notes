@@ -3,7 +3,7 @@
 ## Speakers
 
 * Sam Parr - Co-founder & CEO, The Hustle (@thesamparr)
-* Shan Sinha - Founder & CEO, Highfive
+* Shan Sinha - Founder & CEO, Highfive (@shansinha)
 
 ## Highfive story
 
