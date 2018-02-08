@@ -86,5 +86,3 @@
 * Later, new critics
   * But customers started replying and defending
   * Older critics became champions
-
-Slides: launchdarkly.com/edith
